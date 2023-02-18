@@ -14,7 +14,7 @@ Citizen.CreateThread(function()
 			Citizen.Wait(3000)
 			local vehicle = GetVehiclePedIsIn(playerPed, true)
 			FreezeEntityPosition(vehicle, true)
-            local a = tr
+       
 		 
 			 
         end
